@@ -38,7 +38,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="D:\HGHS\IST\VE\venv"
+VIRTUAL_ENV="C:\Users\laage\Downloads\programs\school requirements\visual studio code\year 10\cat\venv"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
